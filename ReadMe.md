@@ -64,7 +64,6 @@ Then find the name of the pod that runs this quickstart, and output the logs fro
 
 You can also use the [fabric8 developer console](http://fabric8.io/guide/console.html) to manage the running pods, and view logs and much more.
 
-
 ### More details
 
 You can find more details about running this [quickstart](http://fabric8.io/guide/quickstarts/running.html) on the website. This also includes instructions how to change the Docker image user and registry.
